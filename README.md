@@ -1,4 +1,4 @@
-# ⚖️ LexVault
+#  LexVault
 
 ### Legal Document Repository Using Advanced Algorithms
 
@@ -8,7 +8,7 @@ The project demonstrates how different algorithmic techniques can be applied to 
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Legal repositories can contain many documents such as agreements, contracts, NDAs, licenses, and court judgments.
 
@@ -24,7 +24,7 @@ LexVault solves these problems by using different algorithms for different types
 
 ---
 
-## 💡 Key Idea
+##  Key Idea
 
 The main idea of LexVault is:
 
@@ -40,9 +40,9 @@ The main idea of LexVault is:
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🔎 Exact Phrase Search
+###  Exact Phrase Search
 
 Search for an exact word or phrase across all legal documents using the **Knuth-Morris-Pratt (KMP)** algorithm.
 
@@ -58,7 +58,7 @@ The system displays the documents and positions where the phrase occurs.
 
 ---
 
-### ✏️ Fuzzy Search
+###  Fuzzy Search
 
 Find the closest matching word even when the user makes a spelling mistake.
 
@@ -78,7 +78,7 @@ Implemented using **Levenshtein Distance** and Dynamic Programming.
 
 ---
 
-### 🔍 Legal Clause Scanner
+###  Legal Clause Scanner
 
 Search for multiple important legal clauses simultaneously.
 
@@ -97,7 +97,7 @@ Implemented using the **Aho-Corasick algorithm**.
 
 ---
 
-### 📑 Document Comparison
+###  Document Comparison
 
 Compare two legal documents and calculate their edit distance and similarity.
 
@@ -105,7 +105,7 @@ The feature demonstrates **Dynamic Programming** and concepts related to sequenc
 
 ---
 
-### 🧩 Document Similarity
+###  Document Similarity
 
 Compare a selected document with other documents in the repository to identify documents with similar text.
 
@@ -113,7 +113,7 @@ The project also includes a **Suffix Array and LCP implementation** for advanced
 
 ---
 
-### 🧪 Algorithm Lab
+###  Algorithm Lab
 
 LexVault contains an educational Algorithm Lab explaining:
 
@@ -128,7 +128,7 @@ For each algorithm, the application displays its purpose and complexity.
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```text
 LexVault/
